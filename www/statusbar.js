@@ -40,7 +40,7 @@ var namedColors = {
     "brown": "#A52A2A"
 };
 
-var StatusBar = {
+window.StatusBar = {
 
     isVisible: true,
 
